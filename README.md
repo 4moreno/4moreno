@@ -1,11 +1,13 @@
 <h2 align="center">Hi, hola, hoi, salü 👋</h2>
 
+I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm looking for new challenges and projects to further develop my coding career. My design background helps me to create attractive Frontend projects but I enjoy working with the backend, my goal is becoming the ultimate Swiss knife for coding 👾. 
+
 🔭 I’m currently working on [TravelMap - Social Network](travelmap.wiki)
 
 📫 reach me here: **amorenomtz@gmail.com**
 </div class="d-flex justify-content-between">
 <div>
-<h3 align="left">or discover more about me here:</h3><p align="left"><a href="https://linkedin.com/in/amorenomtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amorenomtz" height="30" width="40" /></a>
+<h3 align="left">discover more about me here:</h3><p align="left"><a href="https://linkedin.com/in/amorenomtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amorenomtz" height="30" width="40" /></a>
 </p>
 </div>
 <div>

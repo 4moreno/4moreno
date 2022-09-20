@@ -1,6 +1,6 @@
 <h2 align="center">Hi, hola, hoi, salü 👋</h2>
 
-I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm looking for new challenges and projects to further develop my coding career. My design background helps me to create attractive Frontend projects but I enjoy working with the backend, my goal is becoming the ultimate Swiss knife for coding 👾. 
+I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm looking for new challenges and projects to further develop my coding career. My design background helps me to create attractive Frontend projects but I enjoy working with the backend, my goal is becoming the ultimate Swiss knife for coding 👾🔪 
 
 🔭 I’m currently working on [TravelMap - Social Network](travelmap.wiki)
 

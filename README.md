@@ -1,6 +1,4 @@
 
-<h3 align="center">Junior Fullstack Web Developer</h3>
-
 - 🔭 I’m currently working on [TravelMap - Social Network](travelmap.wiki)
 
 - 📫 How to reach me **amorenomtz@gmail.com**

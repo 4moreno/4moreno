@@ -7,7 +7,7 @@ I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm
 📫 reach me here: **amorenomtz@gmail.com**
 </div class="d-flex justify-content-between">
 <div>
-<h3 align="left">discover more about me here:</h3><p align="left"><a href="https://linkedin.com/in/amorenomtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amorenomtz" height="30" width="40" /></a>
+<h3 align="left">↘️discover more about me here↙️</h3><p align="left"><a href="https://linkedin.com/in/amorenomtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amorenomtz" height="30" width="40" /></a>
 </p>
 </div>
 <div>

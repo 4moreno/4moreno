@@ -3,7 +3,7 @@
 I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm looking for new challenges and projects to further develop my coding career. My design background helps me to create attractive Frontend projects but I enjoy working with the backend, my goal is becoming the ultimate Swiss knife for coding 👾🔪 
 
 🔭 I’m currently working on [TravelMap - Social Network](travelmap.wiki)
-
+                     and on [Rentall - Renting Platform](rentall-yukilaurentiu.herokuapp.com)
 📫 reach me here: **amorenomtz@gmail.com**
 </div class="d-flex justify-content-between">
 <div>

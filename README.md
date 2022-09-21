@@ -4,6 +4,8 @@ I'm a Junior Fullstack Web Develper, recently graduated at LeWagon Bootcamp. I'm
 
 🔭 I’m currently working on [TravelMap - Social Network](travelmap.wiki)
                      and on [Rentall - Renting Platform](rentall-yukilaurentiu.herokuapp.com)
+                     
+
 📫 reach me here: **amorenomtz@gmail.com**
 </div class="d-flex justify-content-between">
 <div>
